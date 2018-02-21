@@ -5,7 +5,7 @@ Code for the Making a Simple Game workshop.
 
 Clone this repository
 
-    git clone git@github.com:mlopes/GameWorkshop.git
+    git clone git@github.com:ioannisGiak89/unity-game.git
 
 Download [Unity personal edition](https://store.unity.com/download?ref=personal)
 
